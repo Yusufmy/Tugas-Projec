@@ -1,5 +1,5 @@
 body{
-    background-color: #d0e1f9;
+    background-color: #d0efd0;
     font-family: Arial, Helvetica, sans-serif;
     color: #3a3a3a;
     margin: 0;
@@ -76,7 +76,7 @@ body{
   }
   
   mark{
-    background: #004258;
+    background: #709070;
     color: white;
     padding: 5px 5px;
   }
@@ -101,7 +101,7 @@ body{
   }
   
   .card:hover {
-    background-color: #fbcb7b;
+    background-color: rgb(124, 236, 124);
   }
   
   .content3 {
@@ -178,7 +178,7 @@ body{
   }
   
   .footer-main {
-      background-color: #004258;
+      background-color: #709070;
       padding: 24px 60px;
       color: white;
   }
